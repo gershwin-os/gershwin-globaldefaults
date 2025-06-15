@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>GSReservedMountNames</key>
+    <array>
+        <string>proc</string>
+        <string>devpts</string>
+        <string>shm</string>
+        <string>usbdevfs</string>
+        <string>devpts</string>
+        <string>sysfs</string>
+        <string>tmpfs</string>
+        <string>iso9660</string>
+    </array>
+    <key>GSRemovableMediaPaths</key>
+    <array>
+        <string>/mnt/floppy</string>
+        <string>/mnt/cdrom</string>
+        <string>/Volumes</string>
+    </array>
+    <key>GSFileBrowserHideDotFiles</key>
+    <string>YES</string>
+    <key>NSInterfaceStyleDefault</key>
+    <string>NSMacintoshInterfaceStyle</string>
+    <key>NSMenuInterfaceStyle</key>
+    <string>NSMacintoshInterfaceStyle</string>
+    <key>GSSuppressAppIcon</key>
+    <string>YES</string>
+</dict>
+</plist>

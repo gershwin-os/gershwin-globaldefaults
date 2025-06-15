@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>DesktopApplicationName</key>
+    <string>GWorkspace</string>
+    <key>DesktopApplicationSelName</key>
+    <string>gworkspace</string>
+    <key>singleclicklaunch</key>
+    <true/>
+    <key>NSWindow Frame finder</key>
+    <string>451 515 486 288 0 0 1280 778</string>
+    <key>NSWindow Frame inspector</key>
+    <string>624 385 278 418 0 0 1280 778</string>
+    <key>NSWindow Frame preferencesWin</key>
+    <string>131 0 396 310 0 0 1280 778</string>
+    <key>browserColsWidth</key>
+    <string>172</string>
+    <key>hiddendirs</key>
+    <array>
+        <string>/bin</string>
+        <string>/boot</string>
+        <string>/dev</string>
+        <string>/etc</string>
+        <string>/efi</string>
+        <string>/gnustep-src</string>
+        <string>/home</string>
+        <string>/lib</string>
+        <string>/lib32</string>
+        <string>/lib64</string>
+        <string>/libexec</string>
+        <string>/lost+found</string>
+        <string>/media</string>
+        <string>/mnt</string>
+        <string>/net</string>
+        <string>/opt</string>
+        <string>/proc</string>
+        <string>/rescue</string>
+        <string>/root</string>
+        <string>/run</string>
+        <string>/sbin</string>
+        <string>/srv</string>
+        <string>/sys</string>
+        <string>/tmp</string>
+        <string>/usr</string>
+        <string>/var</string>
+        <string>/zroot</string>
+    </array>
+    <key>GSWorkspaceApplication</key>
+    <string>Workspace</string>
+    <key>applications</key>
+    <dict>
+        <key>1</key>
+        <string>SystemPreferences</string>
+    </dict>
+    <key>defaulteditor</key>
+    <string>TextEdit.app</string>
+    <key>desktopinfo</key>
+    <dict>
+        <key>backcolor</key>
+        <dict>
+            <key>alpha</key>
+            <real>1</real>
+            <key>blue</key>
+            <real>0.439</real>
+            <key>green</key>
+            <real>0.403</real>
+            <key>red</key>
+            <real>0.372</real>
+        </dict>
+        <key>usebackimage</key>
+        <false/>
+    </dict>
+    <key>dockposition</key>
+    <integer>2</integer>
+    <key>dockstyle</key>
+    <integer>1</integer>
+</dict>
+</plist>
