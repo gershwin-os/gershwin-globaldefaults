@@ -53,6 +53,10 @@
     <key>applications</key>
     <dict>
         <key>1</key>
+        <string>TextEdit</string>
+        <key>2</key>
+        <string>Terminal</string>
+        <key>3</key>
         <string>SystemPreferences</string>
     </dict>
     <key>defaulteditor</key>
