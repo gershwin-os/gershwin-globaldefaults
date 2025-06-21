@@ -27,5 +27,7 @@
     <string>NSMacintoshInterfaceStyle</string>
     <key>GSSuppressAppIcon</key>
     <string>YES</string>
+    <key>GSMenuBarHeight</key>
+    <string>28</string>
 </dict>
 </plist>
