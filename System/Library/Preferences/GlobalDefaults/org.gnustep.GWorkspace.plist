@@ -20,6 +20,8 @@
     <array>
         <string>/bin</string>
         <string>/boot</string>
+        <string>/cdrom</string>
+        <string>/compat</string>
         <string>/dev</string>
         <string>/etc</string>
         <string>/efi</string>
