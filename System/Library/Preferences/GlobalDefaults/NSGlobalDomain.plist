@@ -4,6 +4,8 @@
 <dict>
     <key>GSBackHandlesWindowDecorations</key>
     <string>NO</string>
+    <key>GSAppOwnsMiniwindow</key>
+    <integer>NO</integer>
     <key>GSReservedMountNames</key>
     <array>
         <string>proc</string>
