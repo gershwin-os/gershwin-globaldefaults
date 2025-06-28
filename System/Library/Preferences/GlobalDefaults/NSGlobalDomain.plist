@@ -33,5 +33,7 @@
     <string>YES</string>
     <key>GSMenuBarHeight</key>
     <string>28</string>
+    <key>GSTheme</key>
+    <string>Rik</string>
 </dict>
 </plist>
