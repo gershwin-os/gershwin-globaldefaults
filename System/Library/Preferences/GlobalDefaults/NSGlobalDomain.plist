@@ -35,5 +35,7 @@
     <string>28</string>
     <key>GSTheme</key>
     <string>Rik</string>
+    <key>NSUseRunningCopy</key>
+    <integer>1</integer>
 </dict>
 </plist>
