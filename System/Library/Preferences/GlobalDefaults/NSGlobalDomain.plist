@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>GSBackHandlesWindowDecorations</key>
-    <string>YES</string>
+    <string>NO</string>
     <key>GSAppOwnsMiniwindow</key>
     <integer>NO</integer>
     <key>GSReservedMountNames</key>
