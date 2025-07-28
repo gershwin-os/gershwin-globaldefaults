@@ -1,6 +1,6 @@
 #!/bin/sh
 
-. /usr/local/GNUstep/System/Library/GNUstep.sh
+. /usr/local/GNUstep/System/Library/Makefiles/GNUstep.sh
 
 export GNUSTEP_SYSTEM_USERS_DIR=/Users
 export GNUSTEP_NETWORK_USERS_DIR=/Users
