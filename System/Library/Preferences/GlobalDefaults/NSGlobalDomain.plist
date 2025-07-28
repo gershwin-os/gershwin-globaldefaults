@@ -23,14 +23,6 @@
     </array>
     <key>GSFileBrowserHideDotFiles</key>
     <string>YES</string>
-    <key>NSInterfaceStyleDefault</key>
-    <string>NSMacintoshInterfaceStyle</string>
-    <key>NSMenuInterfaceStyle</key>
-    <string>NSMacintoshInterfaceStyle</string>
-    <key>GSSuppressAppIcon</key>
-    <string>YES</string>
-    <key>GSMenuBarHeight</key>
-    <string>28</string>
     <key>GSTheme</key>
     <string>Rik</string>
     <key>NSUseRunningCopy</key>
